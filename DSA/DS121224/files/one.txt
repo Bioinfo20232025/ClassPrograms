@@ -1,0 +1,4 @@
+This is a sample file written to 
+understand the working of files
+this file is basically a document file and
+can contain lines of any length text

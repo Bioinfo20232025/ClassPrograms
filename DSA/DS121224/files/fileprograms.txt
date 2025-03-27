@@ -1,0 +1,26 @@
+1. length of a string ---- string -> int
+2. Copy 2 strings ---- 2 strings -> nothing
+3. Concatenate or join 2 strings ---- 2 strings -> 1 string
+4. Search a string for a char
+5. Search a string for a string
+
+
+1. Write a program to input a file name and show the contents of the file.
+2. Write a program to input the source file name and destination filename and copy the source file to the destination
+3. Write a program to
+4. Write a program to input a filename and input data in the file till EOF. Show the contents of the file and the number of characters.
+5. Write a program to input a filename and print the number of characters in a file. Show the number of character, number and symbols in the file
+6. Write a program to input a file name and print the number of words and lines in the file
+
+7. Write a program to input a fasta file and print only the sequence and its length
+8. Write a program to input a fasta file and print the sequence and its complement
+9. Write a program to input a fasta file  and print the sequence and print the GC% and AT%
+10. Write a program to input a fasta file and print the sequence and its RNA sequence
+11. Write a program to input a fasta file and print the sequence as triplet codons
+12. Write a program to input a fasta file and print the sequence as duplets
+13. Write a program to input a fasta file and print the number of sequences in the file
+14. Write a program to input a protein sequence fasta file and input an amino acid name and print the number of times the amino acid occurs in the file
+15. Write a program to input a fasta file and input a search sequence and print the first position where the sequence occurs
+(The sequence in multi lined and the search sequence can be partitioned across lines
+
+

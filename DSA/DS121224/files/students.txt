@@ -1,0 +1,5 @@
+1 aaaaa bbbbb 34.00 A
+2 bbbbb bbbbb 33.00 A
+3 cccccc bbbbb 35.00 A
+4 ddddd cccc 33.00 B
+5 rrrrr cccc 34.00 ]

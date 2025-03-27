@@ -1,0 +1,53 @@
+1. Write a function that takes as parameters 5 numbers and returns the product of all numbers greater than 10
+2. Write a function that takes as parameter a number and returns a 1 if its a prime number and 0 if its not
+3. Write a function that takes as parameter a number and returns a 1 if its a fibonacci number and 0 if its not
+4. Write a function that takes as parameter a number and returns its factorial
+5. Write a function that takes as parameter a number and returns a 1 if its an armstrong number and 0 if not
+6. Write a function that takes as parameter 2 numbers and returns the least common divisor
+7. Write a function that takes a character as a parameter and returns its ascii value
+8. Write a function that takes an ascii value as a parameter and returns its character
+9. Write a function that takes a character as a parameter and return a 1 if its a DNA character(ATCG) and 0 if not
+10. Write a function that takes a number as a parameter and returns the sum of the digits
+11. Write a function that takes 2 numbers as a parameter and returns the larger of the 2.
+
+
+1. Write a function that takes an array and size as parameter and returns the sum of the array
+2. Write a function that takes an array and size as parameter and returns the largest value in the array
+3. Write a function that takes an array and size as parameter and returns the lowest value in the array
+4. Write a function that takes an array and size as parameter and returns the average of the values in the array
+5. Write a function that takes an array as parameter and a position and returns the value at the given position.
+
+
+1. Write a function that takes a string as a parameter a number as a string and converts to number
+2. Write a function that takes a string as a parameter and return its length
+3. Write a function that takes 2 strings as parameter and returns 1 if they are same and 0 if not
+4. Write a function that takes 2 strings as parameter and copies string1 to string2
+
+
+Pointers :
+1. Write a program that inputs 2 integers and swaps them using pointers
+2. Write a program that inputs 10 numbers in an array and displays it using pointers
+3. Write a program that inputs 10 numbers in an array and reverses it inplace using pointers
+4. Write a program to input data in 2 arrays of 10 elements and compare both the arrays using pointers
+5. Write a program to input data in 2 arrays and merge them in 3rd array using pointers
+
+6. Write a program to create a function that takes an integer array as parameter and returns the largest and smallest value
+7. Write a program to create a function that takes an integer array as parameter and only value larger than a given value
+8. Write a program to create a function that takes 2 integer arrays as parameter and returns only the common values in both the arrays (use pointers only)
+9. Write a program to create a function that takes an integer array as parameter and returns the a set of numbers that sum to a given number
+10. Write a program to create a function that takes an integer array as parameter and a search value and returns the index of the first position where the value occurs
+11. Write a program to create a function that takes an integer array as parameter and a search value and returns the index of the last position where the value occurs
+12. Write a program to create a function that takes an integer array as parameter and a search value and returns the index of the last position where the value occurs
+
+
+1. Write a function that takes a char array(pointer) as parameter and returns its length
+2. Write a function that takes a 2 char arrays(pointer) as parameter and return a 0 if they are the same and 1 if string1 is greater and -1 if string 2 is greater
+3. Write a funtion that takes a char array(pointer) as a parameter and a search character and returns the position of the first occurence of the character and -1 if it does not exist
+4. Write a funtion that takes a char array(pointer) as a parameter and a search char array and returns the position of the first occurence of the char array and -1 if it does not exist
+5. Write a function that takes 2 char arrays(pointer) as parameter and returns a merged char array
+6. Write a function that takes a char array(pointer) as parameter and a search character and returns the number of occurences of the character
+7. Write a function that takes a char array(pointer) as a parameter and returns it in upper case
+8. Write a function that takes a char array(pointer) as a parameter and returns it in lower case
+9. Write a function that takes a char array(pointer) as a parameter and a position and returns the character at the position
+10. Write a function that takes a char array(pointer) as parameter and a start position and end position and return all the characters from start to end
+11. Write a function that takes a char array(pointer) as parameter and a start position and number of character and return all the characters from start to end

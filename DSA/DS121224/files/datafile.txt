@@ -1,0 +1,7 @@
+this is a long file
+it contains many lines
+end
+this is a line
+this is line2
+this is line3
+well its done

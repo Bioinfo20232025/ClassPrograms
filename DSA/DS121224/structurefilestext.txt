@@ -1,0 +1,18 @@
+1. Describe what is structure using an example. [5]
+2. Write a program to create an array of structures and input data and print the details of the given value  [5]
+
+	Structure data
+	- BookID  (int)
+	- Title	  (string)
+	- Price	  (float)
+
+	Print data where price is greater than the input price
+
+3. Define files in C. Describe the modes in which files can be opened.   [5]
+   Write the program to input chars from the user till EOF and write to the file
+
+4. Write a program to open file1.txt and print it on the screen line by line [5]
+
+5. Write a program to copy file1.txt to file2.txt line by line. Print the number of lines copied.  [5]
+
+

@@ -1,0 +1,49 @@
+1. Create a structure date with members dd, mm, yy.
+Write the program to input the data and print in the date format
+
+2. Create a structure date with members dd mm yy.
+Write a function to input the date in the given structure 
+Write a function that shows the date as dd/mm/yyyy format of the given structure
+Write a function that takes 2 dates as a parameter and returns the difference of date1 -  date2 in years
+if the year of both the dates is same return the difference as 0
+if the year of date1 is lesser that date2 then do date2 - date1
+
+3. Create a structure in C with members
+    - feet    integer
+    - inches  integer
+Write a function to input the data
+Write a function that takes two structure variables as parameter and returns a structure of the sum
+Write a function that takes a structure variable as parameter and prints the structure
+
+4. Create a structure in C with members
+    - Prodno       integer
+    - Productname  char[21]
+    - Price        float
+
+Write a function to input 5 products in a products array. 
+Take input of product no and the qty purchased and print the value to be paid by the user.
+
+5. Write a C program to create a structure as
+    - rollno int
+    - name   21 chars
+    - subject1  int
+    - subject2  int
+    - subject3  int
+    - subject4  int
+    
+    Write a function to input data for 5 students and print if a student is pass or fail. If the student has marks above 40 in all subjects he is pass otherwise fail. Print the percentage if the student is passed.
+
+6. Write a C program to create a structure sequence which contains
+	-sequence  100 chars
+        -CountA    int
+        -CountT    int
+        -CountG    int
+        -CountC    int
+ Input the sequence from the user and populate the structure accordingly
+
+7. Create a structure mystring which contains
+	str    100 chars
+
+   Write a function to input data in the string.
+   Write a function to return the length of the string
+   Write a function to return the nth character from the string. pass n as a parameter.

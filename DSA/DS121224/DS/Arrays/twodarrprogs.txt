@@ -1,0 +1,26 @@
+One Dimension Arrays
+1. Array operations on an integer array using a menu based program
+2. Array operations on a string array using a menu based program
+
+Two Dimension Arrays
+
+1. Write a C program to input data in 3 X 3 array and print it
+2. Write a C program to input data in 3 X 3 array and transpose it
+3. Write a C program to input data in 5 X 5 array and copy it
+4. Write a C program to input data in 5 X 5 array and copy it transposed
+5. Write a C program to input data in 5 X 5 array and print the sum of rows and columns
+6. Write a C program to input data in 5 X 5 array and print the sum of the diagonal
+7. Write a C program to input data in 2 5 X 5 array and compare it the same or not
+8. Write a C porgram to input data in 2 3 X 3 arrays and sum them
+9. Write a C porgram to input data in 2 3 X 3 arrays and subtract them
+
+Linked List
+
+1. Write a menu based program to create a linked list and implment its operations
+2. Write a program to input data and store it in a sorted manner in a linked list
+3. Write a program to input a string and store it in a linked list and implement traversal, insertion and deleting characters
+4. Write a program to input a filename and store it in a linked list and implement insertion, deleting and updating by line number. Save the contents to the file by overwriting the file.
+5.
+
+
+
